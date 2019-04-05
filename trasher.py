@@ -1,8 +1,3 @@
-
-"""
-Created on Thu May  4 23:32:34 2017
-@author: anuj shah
-"""
 # Import libraries
 import os,cv2
 import numpy as np
